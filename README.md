@@ -1,4 +1,23 @@
-<p align="left">👋 Hi there! I'm Akshat<br>🎯 Passionate Developer | Aspiring Problem Solver | Tech Enthusiast<br><br>🌱 I’m constantly learning and exploring new technologies.<br>💼 Currently working on [Watchtopia](https://watchtopia.site).<br>💡 I enjoy building solutions that merge creativity with functionality.<br>📫 Feel free to connect or collaborate: [G-mail](mailto:records.akshat@gmail.com)</p>
+<h1 align="center">Hi 👋, I'm Akshat Apoorv</h1>
+<h3 align="center">🎯 Passionate Developer | Aspiring Problem Solver | Tech Enthusiast</h3>
+
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh120&label=Profile%20views&color=0e75b6&style=flat" alt="aksh120" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksh120" alt="aksh120" /></a> </p>
+
+- 🔭 I’m currently working on [Watchtopia](https://watchtopia.site)
+
+- 🌱 I’m currently learning **and exploring new technologies.**
+
+- 👯 I’m looking to collaborate on **Open-source projects related to web development or data analysis**
+
+- 👨‍💻 All of my projects are available at [https://pps.watchtopia.site](https://pps.watchtopia.site)
+
+- 📫 How to reach me **records.akshat@gmail.com**
+
+- ⚡ Fun fact **I'm equally fascinated by modern fintech innovations!**
 
 ###
 
@@ -16,7 +35,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/OttHdoO.jpeg"  />
+<img align="right" height="180" src="https://i.imgur.com/OttHdoO.jpeg"  />
 
 ###
 
@@ -70,6 +89,6 @@
 
 <br clear="both">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" width="100%" alt="Snake animation" />
 
 ###
