@@ -1,4 +1,4 @@
-<h4 align="left">👋 Hi there! I'm Akshat<br>🎯 Passionate Developer | Aspiring Problem Solver | Tech Enthusiast<br><br>🌱 I’m constantly learning and exploring new technologies.<br>💼 Currently working on [Watchtopia](https://watchtopia.site).<br>💡 I enjoy building solutions that merge creativity with functionality.<br>📫 Feel free to connect or collaborate: [G-mail](mailto:records.akshat@gmail.com)</h4>
+<p align="left">👋 Hi there! I'm Akshat<br>🎯 Passionate Developer | Aspiring Problem Solver | Tech Enthusiast<br><br>🌱 I’m constantly learning and exploring new technologies.<br>💼 Currently working on [Watchtopia](https://watchtopia.site).<br>💡 I enjoy building solutions that merge creativity with functionality.<br>📫 Feel free to connect or collaborate: [G-mail](mailto:records.akshat@gmail.com)</p>
 
 ###
 
@@ -70,6 +70,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aksh120/aksh120/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
