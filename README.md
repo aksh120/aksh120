@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh120&label=Profile%20views&color=0e75b6&style=flat" alt="aksh120" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin-right:5px" src="https://github-profile-trophy.vercel.app/?username=aksh120" alt="aksh120" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=aksh120&theme=kimbie_dark&no-frame=true&margin-w=15" alt="aksh120" /> </p>
 
 - 🔭 I’m currently working on [Watchtopia](https://watchtopia.site)
 
