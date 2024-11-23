@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Watchtopia](https://watchtopia.site)
 
-- 🌱 I’m currently learning **and exploring new technologies.**
+- 🌱 I’m currently **learning and exploring new technologies.**
 
-- 👯 I’m looking to collaborate on **Open-source projects related to web development or data analysis**
+- 👯 I’m looking to **collaborate on Open-source projects related to web development or data analysis**
 
 - 👨‍💻 All of my projects are available at [https://pps.watchtopia.site](https://pps.watchtopia.site)
 
 - 📫 How to reach me **records.akshat@gmail.com**
 
-- ⚡ Fun fact **I'm equally fascinated by modern fintech innovations!**
+- ⚡ Fun fact **I'm fascinated by modern fintech innovations!**
 
 ###
 
