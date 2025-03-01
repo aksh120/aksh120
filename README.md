@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to **collaborate on Open-source projects related to web development or data analysis**
 
-- 👨‍💻 All of my projects are available at [https://pps.watchtopia.site](https://pps.watchtopia.site)
+- 👨‍💻 All of my projects are available at [https://pps.akimbodev.site](https://pps.akimbodev.site)
 
-- 📫 How to reach me **records.akshat@gmail.com**
+- 📫 How to reach me **akshat@akimbodev.site** | **records.akshat@gmail.com**
 
 - ⚡ Fun fact **I'm fascinated by modern fintech innovations!**
 
