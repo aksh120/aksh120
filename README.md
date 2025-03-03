@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Apoorv</h1>
-<h3 align="center">🎯 Passionate Developer | Aspiring Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Passionate Developer | Aspiring Problem Solver | Tech Enthusiast</h3>
 
 ###
 
